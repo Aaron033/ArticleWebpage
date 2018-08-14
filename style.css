@@ -1,0 +1,44 @@
+body {
+    margin-left:25%; 
+    width: 50%; 
+    border: 20px solid #bdc3c7;
+    font-family: source sans pro; 
+}
+h3{
+    color: #3498db; 
+    padding: 0px 20px;
+    font-weight: 400; 
+    text-transform: uppercase;
+    font-size: 17px;
+    letter-spacing: 2px; 
+}
+h1{
+    
+    color:#2c3e50; 
+    padding: 0px 20px;
+    font-weight: bold ;
+    font-size: 28px;
+    font-weight: 700px  
+}
+p{
+  padding: 0px 20px 0px 20px ;
+font-weight: 400;
+}
+.lp{
+    padding-bottom: 20px;
+}
+.fp{
+    padding: 0px 20px 0px 4px; 
+    border-left: 8px solid #bdc3c7; 
+    margin: 25px;
+}
+
+/* Gradient transparent - color - transparent */
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    width: auto; 
+    
+}
